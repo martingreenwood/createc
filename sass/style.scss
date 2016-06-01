@@ -1,0 +1,48 @@
+/*
+Theme Name: createc
+Theme URI: http://underscores.me/
+Author: Martin Greewnood
+Author URI: http://www.pixelpudu.com
+Description: A theme for createc.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: createc
+Tags:
+
+createc is based on Underscores http://underscores.me/, (C) 2012-2015 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# NORMALIZE
+# GRID / BASE
+# HELPERS
+# PP
+
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+# NORMALIZE
+--------------------------------------------------------------*/
+@import "_normalize.scss";
+
+/*--------------------------------------------------------------
+# GRID / BASE
+--------------------------------------------------------------*/
+@import "bourbon/bourbon";
+@import "base/base";
+@import "neat/neat";
+
+/*--------------------------------------------------------------
+# HELPERS
+--------------------------------------------------------------*/
+@import "_typeography";
+
+/*--------------------------------------------------------------
+# PP
+--------------------------------------------------------------*/
+@import "_createc";

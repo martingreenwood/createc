@@ -1,0 +1,41 @@
+{
+    "key": "group_572b2b02bedcd",
+    "title": "Select User",
+    "fields": [
+        {
+            "key": "field_572b2b075dce1",
+            "label": "",
+            "name": "assignee",
+            "type": "user",
+            "instructions": "Select the user to assign this download to. ",
+            "required": 1,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "role": "",
+            "allow_null": 1,
+            "multiple": 0
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "client_files"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "side",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1462451443
+}
