@@ -1635,6 +1635,14 @@ iframe {
     .page-template-template-one #content article .quote:last-child {
       margin-right: 0; } }
 
+.page-template-wide #gform_3 ul li .gfield_label {
+  font-size: 2.1rem;
+  color: #1d1d1b; }
+.page-template-wide #gform_3 ul li .ginput_container .gform_wrapper textarea.medium {
+  width: 100%; }
+.page-template-wide #gform_3 ul li:before {
+  content: ''; }
+
 .search #content {
   margin: 60px 15px 0;
   margin: 6rem 1.5rem 0; }
