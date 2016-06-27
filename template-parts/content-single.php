@@ -22,10 +22,10 @@
 
 				<?php if ( 'post' == get_post_type() ) : ?>
 				<div class="entry-meta">
-					<?php createc_posted_on(); ?>
-				</div><!-- .entry-meta -->
+					<?php the_date(); ?>
+				</div>
 				<?php endif; ?>
-			</header><!-- .entry-header -->
+			</header>
 
 			<div>
 				<?php

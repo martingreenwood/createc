@@ -1389,8 +1389,9 @@ iframe {
 
 .page-template-wide {
 
-	#gform_3 {
-		.gform_wrapper {
+	.gform_wrapper {
+
+		#gform_3 {
 
 			ul {
 
@@ -1414,8 +1415,8 @@ iframe {
 						}
 					}
 
-				&:before {
-	    			display: none;
+					&:before {
+	    				display: none;
 					}
 				}
 			}

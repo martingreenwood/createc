@@ -1635,19 +1635,19 @@ iframe {
     .page-template-template-one #content article .quote:last-child {
       margin-right: 0; } }
 
-.page-template-wide #gform_3 .gform_wrapper ul li {
+.page-template-wide .gform_wrapper #gform_3 ul li {
   margin-bottom: 20px; }
-  .page-template-wide #gform_3 .gform_wrapper ul li .gfield_label {
+  .page-template-wide .gform_wrapper #gform_3 ul li .gfield_label {
     font-size: 2.1rem;
     color: #1d1d1b;
     margin-top: 0; }
-  .page-template-wide #gform_3 .gform_wrapper ul li .ginput_container textarea.medium {
+  .page-template-wide .gform_wrapper #gform_3 ul li .ginput_container textarea.medium {
     width: 100%;
     margin: 0;
     padding: 10px;
     border-radius: 0;
     box-shadow: none; }
-  .page-template-wide #gform_3 .gform_wrapper ul li:before {
+  .page-template-wide .gform_wrapper #gform_3 ul li:before {
     display: none; }
 
 .search #content {
