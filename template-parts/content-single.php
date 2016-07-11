@@ -22,7 +22,7 @@
 
 				<?php if ( 'post' == get_post_type() ) : ?>
 				<div class="entry-meta">
-					<?php the_date(); ?>
+					Posted on <?php the_date(); ?>
 				</div>
 				<?php endif; ?>
 			</header>
