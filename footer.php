@@ -39,7 +39,7 @@
 		<?php if (!function_exists('dynamic_sidebar') || !dynamic_sidebar('Bottom Sidebar')) : ?>
 		<div class="no-tweet">
 			<i class="fa fa-twitter"></i>
-			<h2>Follow us on Twitter. <a href="https://twitter.com/CreatecCumbria" target="_blank">@CreatecCumbria</h2>
+			<h2>Follow us on Twitter. <a href="https://twitter.com/CreatecCumbria" target="_blank">@CreatecCumbria</a></h2>
 		</div>
 		<?php endif; ?>
 	</div>
